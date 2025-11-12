@@ -1,0 +1,10 @@
+{
+  "prompts": [
+    "Create an automation script for the login page of the OrangeHRM",
+    "website using Playwright.",
+    "The script should navigate to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login", 
+    "Maximize the browser window, ",
+    "fill in the username and password fields, click the login button",
+    "and assert that the login was successful by checking the dashboard title."
+  ]
+}
